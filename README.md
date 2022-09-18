@@ -1,4 +1,4 @@
 # instagram
 
 ## demo
-![demo](./assets/instagram.gi)
+![demo](./assets/instagram.gif)
